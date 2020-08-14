@@ -30,7 +30,7 @@ twitter_username: busradeniz
 github_username:  busradeniz
 
 # Build settings
-theme: jekyll-theme-primer
+theme: minima
 plugins:
   - jekyll-feed
 
